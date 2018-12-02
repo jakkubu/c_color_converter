@@ -1,2 +1,2 @@
-# c-color-converter
+# c_color_converter
 HSL - RGB color converter
